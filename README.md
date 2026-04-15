@@ -2,7 +2,9 @@
 
 日本企業の公式テックブログのうち、**エンジニアリング寄りの記事**があり、**2024年〜2026年頃まで更新が確認できる**ものを収集した一覧です。スタートアップ〜成長企業を厚めにしつつ、更新量の多い大手もバランス用に含めています。**産業ロボット・自動運転・モビリティソフトウェア**など、フィジカル寄りの領域も `Robotics / Autonomous Driving` にまとめています。
 
-掲載基準の目安:
+あわせて、**海外のロボタクシー／自動運転スタック**を追うときの参照として、代表的な公式ブログ・ニュースルームを `International` に載せています（掲載基準は国内より緩め。英語中心です）。
+
+掲載基準の目安（国内リスト）:
 
 - 日本法人の公式ブログ（または公式Publication）であること
 - 技術・開発の話が中心であること（採用・広報のみの媒体は除外）
@@ -90,6 +92,21 @@
 - ラクス（RAKUS）
   - https://tech-blog.rakus.co.jp/
 
+## International — Autonomous Driving & Mobility（参考）
+
+- Waymo（公式ブログ「Waypoint」）
+  - https://waymo.com/blog/
+- Cruise（Medium・公式Publication）
+  - https://medium.com/cruise
+- Aurora（ニュースルーム／技術記事）
+  - https://aurora.tech/newsroom
+- Zoox（Journal）
+  - https://zoox.com/journal
+- Mobileye
+  - https://www.mobileye.com/blog/
+- Wayve（Thinking／エンジニアリング・研究系）
+  - https://wayve.ai/thinking/
+
 ---
 
 ### メモ
@@ -99,3 +116,4 @@
 - **TIER IV** は新着記事を [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) にも公開しています（`tech.tier4.jp` から案内あり）。
 - **Preferred Networks（PFN）** は `AI / Data` にも掲載していますが、ロボティクス・自動運転向け研究の記事も多いです。
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
+- **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
