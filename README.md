@@ -66,6 +66,14 @@
   - https://engineering.visional.inc/
 - ヌーラボ（Nulab／TechBlog）
   - https://www.nulab.com/ja/blog/categories/techblog/
+- DMM.com（DMM Developers Blog）
+  - https://developersblog.dmm.com/
+- DeNA（DeNA Engineering）
+  - https://engineering.dena.com/
+- LegalOn Technologies（エンジニアリングブログ）
+  - https://tech.legalforce.co.jp/
+- ユーザベース（Uzabase for Engineers）
+  - https://tech.uzabase.com/
 
 ## Infrastructure / Platform
 
@@ -79,6 +87,8 @@
   - https://buildersbox.corp-sansan.com/
 - クラスメソッド
   - https://dev.classmethod.jp/
+- DeNA SWET（ソフトウェアテスト・CI/CD・品質エンジニアリング）
+  - https://swet.dena.com/
 
 ## AI / Data
 
@@ -142,3 +152,4 @@
 - **Preferred Networks（PFN）** は `AI / Data` にも掲載していますが、ロボティクス・自動運転向け研究の記事も多いです。
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
 - **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
+- **DeNA** は [`engineering.dena.com`](https://engineering.dena.com/)（開発全般）と [`swet.dena.com`](https://swet.dena.com/)（テスト・CI/CD 特化）で媒体が分かれています。
