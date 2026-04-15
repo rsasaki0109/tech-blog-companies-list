@@ -1,14 +1,15 @@
 # tech-blog-companies-list
 
-日本企業の公式テックブログのうち、**エンジニアリング寄りの記事**があり、**直近（特に2026年）に新着が確認できる**ものを優先して収集した一覧です。スタートアップ〜成長企業を厚めにしつつ、更新量の多い大手もバランス用に含めています。**産業ロボット・自動運転・モビリティソフトウェア**など、フィジカル寄りの領域も `Robotics / Autonomous Driving` にまとめています。
+日本企業の公式テックブログのうち、**実装・設計・アーキテクチャ・インフラ・データ・セキュリティ・性能・検証などに踏み込んだ技術記事が継続的に載る**ものを優先して収集した一覧です（**直近・特に2026年の新着**も条件）。スタートアップ〜成長企業を厚めにしつつ、更新量の多い大手もバランス用に含めています。**産業ロボット・自動運転・モビリティソフトウェア**など、フィジカル寄りの領域も `Robotics / Autonomous Driving` にまとめています。
 
 海外のロボタクシー／自動運転スタック向けリンクは **`International`** に分け、**2026年頃まで活発な公式発信が確認できるもの**と、**更新が薄いが文脈参照として残すもの**を区別しています（英語中心）。
 
 掲載基準の目安（国内リスト）:
 
 - 日本法人の公式ブログ（または公式 Publication）であること
-- 技術・開発の話が中心であること（採用・広報のみの媒体は除外）
-- **2026年にエンジニアリング記事の新着が確認できること**（確認できない場合は下記「参考」へ）
+- **上記のような技術記事が本体**であること（**所信表明・カルチャー紹介・採用ストーリー・イベント旅行記・単なる登壇感想だけ**が主役の媒体は載せない）
+- 採用・広報のみの媒体は除外
+- **2026年に技術記事の新着が確認できること**（確認できない場合は下記「参考」へ）
 
 ---
 
@@ -61,8 +62,8 @@
   - https://techlife.cookpad.com/
 - LINEヤフー（LY Corporation）
   - https://techblog.lycorp.co.jp/ja
-- GMOペパボ（Pepabo Tech Portal）
-  - https://tech.pepabo.com/
+- ビズリーチ（Visional／検索基盤・SRE・ML 等の技術記事）
+  - https://engineering.visional.inc/
 - ヌーラボ（Nulab／TechBlog）
   - https://www.nulab.com/ja/blog/categories/techblog/
 
@@ -104,7 +105,7 @@
   - https://www.mobileye.com/blog/
 - NVIDIA Developer Blog（自動運転・モビリティ系タグ）
   - https://developer.nvidia.com/blog/tag/self-driving-cars/
-- Wayve（Thinking）
+- Wayve（Thinking・**カルチャー記事混在**のため、一覧の Subject で *Engineering* / *Research* を優先）
   - https://wayve.ai/thinking/
 - GM Engineering Blog（自動運転・ソフトウェア定義車両など）
   - https://engineering.gm.com/
@@ -125,12 +126,18 @@
 - ソニーセミコンダクタソリューションズ（AITRIOS Developers Blog／**開発者向け記事の新着は2025年以前が目立つ**）
   - https://info.aitrios.sony-semicon.com/ja/developers-blog
 
+### 参考（国内・技術記事と非技術記事の混在が大きい）
+
+- GMOペパボ（Pepabo Tech Portal／**所信表明・採用・イベント寄りの記事が多く、技術記事だけを追う用途には向きにくい**）
+  - https://tech.pepabo.com/
+
 ---
 
 ### メモ
 
 - **Helpfeel** は Zenn 版（https://zenn.dev/p/helpfeel）も運営しています。
 - **ラクス** と **ラクスル** は別会社です。どちらもグループ内でテックブログを公開しています。
+- **ヌーラボ** TechBlog は開発・セキュリティ・インフラ寄りの記事がある一方、プロジェクトマネジメント等の記事も混在します。技術だけを追う場合はタイトルで振り分けてください。
 - **TIER IV** は旧ドメイン https://tech.tier4.jp/ から [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) への移行が案内されています。
 - **Preferred Networks（PFN）** は `AI / Data` にも掲載していますが、ロボティクス・自動運転向け研究の記事も多いです。
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
