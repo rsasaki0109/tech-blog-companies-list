@@ -1,14 +1,14 @@
 # tech-blog-companies-list
 
-日本企業の公式テックブログのうち、**エンジニアリング寄りの記事**があり、**2024年〜2026年頃まで更新が確認できる**ものを収集した一覧です。スタートアップ〜成長企業を厚めにしつつ、更新量の多い大手もバランス用に含めています。**産業ロボット・自動運転・モビリティソフトウェア**など、フィジカル寄りの領域も `Robotics / Autonomous Driving` にまとめています。
+日本企業の公式テックブログのうち、**エンジニアリング寄りの記事**があり、**直近（特に2026年）に新着が確認できる**ものを優先して収集した一覧です。スタートアップ〜成長企業を厚めにしつつ、更新量の多い大手もバランス用に含めています。**産業ロボット・自動運転・モビリティソフトウェア**など、フィジカル寄りの領域も `Robotics / Autonomous Driving` にまとめています。
 
-あわせて、**海外のロボタクシー／自動運転スタック**を追うときの参照として、代表的な公式ブログ・ニュースルームを `International` に載せています（掲載基準は国内より緩め。英語中心です）。
+海外のロボタクシー／自動運転スタック向けリンクは **`International`** に分け、**2026年頃まで活発な公式発信が確認できるもの**と、**更新が薄いが文脈参照として残すもの**を区別しています（英語中心）。
 
 掲載基準の目安（国内リスト）:
 
-- 日本法人の公式ブログ（または公式Publication）であること
+- 日本法人の公式ブログ（または公式 Publication）であること
 - 技術・開発の話が中心であること（採用・広報のみの媒体は除外）
-- 直近で更新が途切れていないこと
+- **2026年にエンジニアリング記事の新着が確認できること**（確認できない場合は下記「参考」へ）
 
 ---
 
@@ -16,8 +16,8 @@
 
 - チューリング（Turing）
   - https://zenn.dev/p/turing_motors
-- TIER IV
-  - https://tech.tier4.jp/
+- TIER IV（**Medium「TIER IV MEDIA」が現行**。旧 `tech.tier4.jp` は移行案内）
+  - https://medium.com/tier-iv-tech-blog
 - Mujin
   - https://mujinspire.mujin.co.jp/ja/
 - Rapyuta Robotics
@@ -28,8 +28,6 @@
   - https://honda-techblog.hatenablog.com/
 - カワサキロボティクス（川崎重工・産業用ロボット）
   - https://kawasakirobotics.com/jp/blog/
-- ソニーセミコンダクタソリューションズ（AITRIOS Developers Blog／エッジVision AI）
-  - https://info.aitrios.sony-semicon.com/ja/developers-blog
 
 ## Web / Backend
 
@@ -63,6 +61,10 @@
   - https://techlife.cookpad.com/
 - LINEヤフー（LY Corporation）
   - https://techblog.lycorp.co.jp/ja
+- GMOペパボ（Pepabo Tech Portal）
+  - https://tech.pepabo.com/
+- ヌーラボ（Nulab／TechBlog）
+  - https://www.nulab.com/ja/blog/categories/techblog/
 
 ## Infrastructure / Platform
 
@@ -91,21 +93,37 @@
   - https://techblog.raksul.com/
 - ラクス（RAKUS）
   - https://tech-blog.rakus.co.jp/
+- 富士通研究所（fltech／富士通の研究開発ブログ）
+  - https://blog.fltech.dev/
 
-## International — Autonomous Driving & Mobility（参考）
+## International — Autonomous Driving & Mobility（2026年頃まで更新確認）
 
 - Waymo（公式ブログ「Waypoint」）
   - https://waymo.com/blog/
-- Cruise（Medium・公式Publication）
-  - https://medium.com/cruise
-- Aurora（ニュースルーム／技術記事）
-  - https://aurora.tech/newsroom
-- Zoox（Journal）
-  - https://zoox.com/journal
 - Mobileye
   - https://www.mobileye.com/blog/
-- Wayve（Thinking／エンジニアリング・研究系）
+- NVIDIA Developer Blog（自動運転・モビリティ系タグ）
+  - https://developer.nvidia.com/blog/tag/self-driving-cars/
+- Wayve（Thinking）
   - https://wayve.ai/thinking/
+- GM Engineering Blog（自動運転・ソフトウェア定義車両など）
+  - https://engineering.gm.com/
+
+### International — 更新が薄いが参照用（歴史的文脈・ニュースアーカイブ）
+
+- Cruise（Medium・ロボタクシー事業縮小後は**エンジニアリング新着がほぼ途絶えている**）
+  - https://medium.com/cruise
+- Aurora（ニュースルーム／**直近の技術記事は2025年頃まで**の見え方）
+  - https://aurora.tech/newsroom
+- Zoox（Journal・取得環境によっては不安定）
+  - https://zoox.com/journal
+
+---
+
+### 参考（国内・更新頻度が低い／エッジAI向け）
+
+- ソニーセミコンダクタソリューションズ（AITRIOS Developers Blog／**開発者向け記事の新着は2025年以前が目立つ**）
+  - https://info.aitrios.sony-semicon.com/ja/developers-blog
 
 ---
 
@@ -113,7 +131,7 @@
 
 - **Helpfeel** は Zenn 版（https://zenn.dev/p/helpfeel）も運営しています。
 - **ラクス** と **ラクスル** は別会社です。どちらもグループ内でテックブログを公開しています。
-- **TIER IV** は新着記事を [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) にも公開しています（`tech.tier4.jp` から案内あり）。
+- **TIER IV** は旧ドメイン https://tech.tier4.jp/ から [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) への移行が案内されています。
 - **Preferred Networks（PFN）** は `AI / Data` にも掲載していますが、ロボティクス・自動運転向け研究の記事も多いです。
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
 - **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
