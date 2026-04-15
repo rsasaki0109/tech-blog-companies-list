@@ -106,6 +106,23 @@
   - https://tech-blog.rakus.co.jp/
 - 富士通研究所（fltech／富士通の研究開発ブログ）
   - https://blog.fltech.dev/
+- ストックマーク（Stockmark Tech Blog／NLP・生成AI・プロダクト開発）
+  - https://stockmark-tech.hatenablog.com/
+
+## Zenn Publication（公式）
+
+自社ドメインのテックブログと**併用**している例と、**Zenn Publication が主な公式発信**の例をまとめています（RSS は各 Publication の `/feed`）。上記カテゴリに既出の企業も多いので、**追いかけ用のミラー**として使えます。
+
+- チューリング
+  - https://zenn.dev/p/turing_motors（→ Robotics / Autonomous Driving）
+- LayerX
+  - https://zenn.dev/p/layerx（併用: https://tech.layerx.co.jp/）
+- Helpfeel（のとも）
+  - https://zenn.dev/p/helpfeel（併用: https://blog.notainc.com/）
+- Ubie
+  - https://zenn.dev/p/ubie_dev（→ AI / Data）
+- レバレジーズ（レバテック開発部・Publication が主な公式テック発信）
+  - https://zenn.dev/p/levtech
 
 ## International — Autonomous Driving & Mobility（2026年頃まで更新確認）
 
@@ -145,7 +162,7 @@
 
 ### メモ
 
-- **Helpfeel** は Zenn 版（https://zenn.dev/p/helpfeel）も運営しています。
+- **Helpfeel** は上記 **Zenn Publication** 節にも Zenn の URL を載せています。
 - **ラクス** と **ラクスル** は別会社です。どちらもグループ内でテックブログを公開しています。
 - **ヌーラボ** TechBlog は開発・セキュリティ・インフラ寄りの記事がある一方、プロジェクトマネジメント等の記事も混在します。技術だけを追う場合はタイトルで振り分けてください。
 - **TIER IV** は旧ドメイン https://tech.tier4.jp/ から [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) への移行が案内されています。
@@ -153,3 +170,4 @@
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
 - **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
 - **DeNA** は [`engineering.dena.com`](https://engineering.dena.com/)（開発全般）と [`swet.dena.com`](https://swet.dena.com/)（テスト・CI/CD 特化）で媒体が分かれています。
+- **チューリング**・**LayerX**・**Helpfeel**・**Ubie** は上の **Zenn Publication** にも載せています（同一企業の別 URL）。
