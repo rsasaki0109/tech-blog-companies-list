@@ -74,6 +74,24 @@
   - https://tech.legalforce.co.jp/
 - ユーザベース（Uzabase for Engineers）
   - https://tech.uzabase.com/
+- 株式会社ドリコム（Tech Inside Drecom／ゲーム・AI・インフラ）
+  - https://tech.drecom.co.jp/
+- ファインディ（Findy Tech Blog）
+  - https://tech.findy.co.jp/
+- microCMS（ブログ・**更新情報・チュートリアルとエンジニアリング記事が混在**。開発寄りはカテゴリ「エンジニアリング」等で絞る）
+  - https://blog.microcms.io/
+- サイボウズ（Cybozu Inside Out）
+  - https://blog.cybozu.io/
+- はてな（Hatena Developer Blog）
+  - https://developer.hatenastaff.com/
+- アンチパターン（Anti-Pattern Engineering Blog）
+  - https://tech.anti-pattern.co.jp/
+- UPSIDER（UPSIDER Techblog）
+  - https://tech.up-sider.com/
+- PR TIMES（開発者ブログ）
+  - https://developers.prtimes.jp/
+- STORES（STORES Tech・**Zenn Publication**）
+  - https://zenn.dev/p/stores
 
 ## Infrastructure / Platform
 
@@ -108,6 +126,8 @@
   - https://blog.fltech.dev/
 - ストックマーク（Stockmark Tech Blog／NLP・生成AI・プロダクト開発）
   - https://stockmark-tech.hatenablog.com/
+- リクルート（Recruit Data Blog／データ基盤・ML・分析エンジニアリング）
+  - https://blog.recruit.co.jp/data/
 
 ## Zenn Publication（公式）
 
@@ -123,6 +143,8 @@
   - https://zenn.dev/p/ubie_dev（→ AI / Data）
 - レバレジーズ（レバテック開発部・Publication が主な公式テック発信）
   - https://zenn.dev/p/levtech
+- STORES
+  - https://zenn.dev/p/stores（→ Web / Backend）
 
 ## International — Autonomous Driving & Mobility（2026年頃まで更新確認）
 
@@ -171,3 +193,5 @@
 - **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
 - **DeNA** は [`engineering.dena.com`](https://engineering.dena.com/)（開発全般）と [`swet.dena.com`](https://swet.dena.com/)（テスト・CI/CD 特化）で媒体が分かれています。
 - **チューリング**・**LayerX**・**Helpfeel**・**Ubie** は上の **Zenn Publication** にも載せています（同一企業の別 URL）。
+- **STORES** も **Zenn Publication** に載せています（同一企業の別 URL）。
+- **リクルート** はグループ内に複数の開発者向け媒体があります。データ・ML 寄りは **Recruit Data Blog**（上記 AI / Data）を参照。
