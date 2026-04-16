@@ -206,4 +206,3 @@
 - **チューリング**・**LayerX**・**Helpfeel**・**Ubie** は上の **Zenn Publication** にも載せています（同一企業の別 URL）。
 - **STORES** も **Zenn Publication** に載せています（同一企業の別 URL）。
 - **リクルート** はグループ内に複数の開発者向け媒体があります。データ・ML 寄りは **Recruit Data Blog**（上記 AI / Data）を参照。
-- **MAP IV**（マップフォー）の公式サイト内 **BLOG**（`https://www.map4.jp/media/blog/`）は、2026年4月時点で **投稿ゼロ表示**だった（再編・カテゴリ未設定の可能性）。本編リストには未掲載。
