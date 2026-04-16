@@ -2,7 +2,7 @@
 
 日本企業の公式テックブログのうち、**実装・設計・アーキテクチャ・インフラ・データ・セキュリティ・性能・検証などに踏み込んだ技術記事が継続的に載る**ものを優先して収集した一覧です（**直近・特に2026年の新着**も条件）。スタートアップ〜成長企業を厚めにしつつ、更新量の多い大手もバランス用に含めています。**産業ロボット・自動運転・モビリティソフトウェア**など、フィジカル寄りの領域も `Robotics / Autonomous Driving` にまとめています。
 
-海外のロボタクシー／自動運転スタック向けリンクは **`International`** に分け、**2026年頃まで活発な公式発信が確認できるもの**と、**更新が薄いが文脈参照として残すもの**を区別しています（英語中心）。
+海外のロボタクシー／自動運転スタック、**ROS／シミュレーション／ロボット開発ツール**向けリンクは **`International`** に分け、**2026年頃まで活発な公式発信が確認できるもの**と、**更新が薄いが文脈参照として残すもの**を区別しています（英語中心）。
 
 掲載基準の目安（国内リスト）:
 
@@ -31,6 +31,8 @@
   - https://tech.preferred.jp/ja/blog/
 - 株式会社アールティ（移動型ロボット・ROS 2／Nav2 等の実装寄り。マイクロマウス・人型など別カテゴリは [ブログ一覧](https://rt-net.jp/blog/) から）
   - https://rt-net.jp/mobility
+- THK（**THKジャーナル**・直動部品・工作機械・**産業ロボット／搬送／ヒューマノイド関連**の技術記事。製品紹介・事例と設計寄りが混在）
+  - https://www.thk.com/jp/ja/journal/
 
 ## Web / Backend
 
@@ -164,6 +166,10 @@
   - https://www.openrobotics.org/blog/
 - CARLA Simulator（CARLA の公式サイト。**Latest News** にリリースノート・イベント・競技会結果等。英語中心）
   - https://carla.org/
+- PickNik Robotics（MoveIt・ROS 2 ベースのモーション計画・操縦ソフト。**ブログとニュースレター**が混在。英語中心）
+  - https://picknik.ai/blog/
+- Foxglove（ROS／MCAP／ロボットデータ可視化。**プロダクトリリース・チュートリアル・コミュニティ寄り**が混在。英語中心）
+  - https://foxglove.dev/blog/
 - Wayve（Thinking・**カルチャー記事混在**のため、一覧の Subject で *Engineering* / *Research* を優先）
   - https://wayve.ai/thinking/
 - GM Engineering Blog（自動運転・ソフトウェア定義車両など）
