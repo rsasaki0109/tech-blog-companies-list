@@ -66,8 +66,8 @@
   - https://techblog.lycorp.co.jp/ja
 - ビズリーチ（Visional／検索基盤・SRE・ML 等の技術記事）
   - https://engineering.visional.inc/
-- ヌーラボ（Nulab／TechBlog）
-  - https://www.nulab.com/ja/blog/categories/techblog/
+- ヌーラボ（Nulab／TechBlog・**旧 `.../categories/techblog/` は 404**。開発寄りは **エンジニアリング** カテゴリ等で絞る）
+  - https://www.nulab.com/ja/blog/categories/engineering/
 - DMM.com（DMM Developers Blog）
   - https://developersblog.dmm.com/
 - DeNA（DeNA Engineering）
@@ -135,18 +135,18 @@
 
 自社ドメインのテックブログと**併用**している例と、**Zenn Publication が主な公式発信**の例をまとめています（RSS は各 Publication の `/feed`）。上記カテゴリに既出の企業も多いので、**追いかけ用のミラー**として使えます。
 
-- チューリング
-  - https://zenn.dev/p/turing_motors（→ Robotics / Autonomous Driving）
-- LayerX
-  - https://zenn.dev/p/layerx（併用: https://tech.layerx.co.jp/）
-- Helpfeel（のとも）
-  - https://zenn.dev/p/helpfeel（併用: https://blog.notainc.com/）
-- Ubie
-  - https://zenn.dev/p/ubie_dev（→ AI / Data）
+- チューリング（→ Robotics / Autonomous Driving）
+  - https://zenn.dev/p/turing_motors
+- LayerX（併用: https://tech.layerx.co.jp/）
+  - https://zenn.dev/p/layerx
+- Helpfeel（のとも／併用: https://blog.notainc.com/）
+  - https://zenn.dev/p/helpfeel
+- Ubie（→ AI / Data）
+  - https://zenn.dev/p/ubie_dev
 - レバレジーズ（レバテック開発部・Publication が主な公式テック発信）
   - https://zenn.dev/p/levtech
-- STORES
-  - https://zenn.dev/p/stores（→ Web / Backend）
+- STORES（→ Web / Backend）
+  - https://zenn.dev/p/stores
 - Fixstars（フィックスターズ・**2026年に技術ブログを Zenn Publication へ移行**（旧プロジェクト名「proc-cpuinfo」）。GPU／AI 最適化・検証寄り）
   - https://zenn.dev/p/fixstars
 
@@ -160,6 +160,10 @@
   - https://developer.nvidia.com/blog/tag/self-driving-cars/
 - Autoware Foundation（オープンソース AD スタック「Autoware」の公式サイト。**ニュース・技術解説・イベント案内**が混在。英語中心）
   - https://autoware.org/
+- Open Robotics（ROS 2・Gazebo・Open-RMF 等。**ニュース・リリース・コミュニティ運営**が混在。英語中心）
+  - https://www.openrobotics.org/blog/
+- CARLA Simulator（CARLA の公式サイト。**Latest News** にリリースノート・イベント・競技会結果等。英語中心）
+  - https://carla.org/
 - Wayve（Thinking・**カルチャー記事混在**のため、一覧の Subject で *Engineering* / *Research* を優先）
   - https://wayve.ai/thinking/
 - GM Engineering Blog（自動運転・ソフトウェア定義車両など）
@@ -185,6 +189,8 @@
 
 - GMOペパボ（Pepabo Tech Portal／**所信表明・採用・イベント寄りの記事が多く、技術記事だけを追う用途には向きにくい**）
   - https://tech.pepabo.com/
+- 株式会社SkyDrive（公式サイトの記事。**eVTOL／空飛ぶクルマ**の開発・試験・デザイン寄りが多く、**車載ソフトの実装ブログとして追う用途には向きにくい**）
+  - https://skydrive.co.jp/
 
 ### 参考（国内・2026年のエンジニアリング新着がほぼない／更新が事実上止まっている例）
 
@@ -197,12 +203,12 @@
 
 - **Helpfeel** は上記 **Zenn Publication** 節にも Zenn の URL を載せています。
 - **ラクス** と **ラクスル** は別会社です。どちらもグループ内でテックブログを公開しています。
-- **ヌーラボ** TechBlog は開発・セキュリティ・インフラ寄りの記事がある一方、プロジェクトマネジメント等の記事も混在します。技術だけを追う場合はタイトルで振り分けてください。
+- **ヌーラボ** TechBlog は開発・セキュリティ・インフラ寄りの記事がある一方、プロジェクトマネジメント等の記事も混在します。技術だけを追う場合はタイトルで振り分けてください（上記 URL は **エンジニアリング** カテゴリ）。
+- **Medium**（TIER IV、Cruise 等）や **Rapyuta Robotics** のブログは、**curl 等の自動取得では 403 になることがある**（ブラウザでは閲覧可能）。
 - **TIER IV** は旧ドメイン https://tech.tier4.jp/ から [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) への移行が案内されています。Autoware の商用ディストリビューション（Autoware Universe 等）と連動する記事は **TIER IV MEDIA** と **[Autoware Foundation](https://autoware.org/)** の両方に出ます。
 - **Preferred Networks（PFN）** は **`AI / Data` と `Robotics / Autonomous Driving` の両方**に URL を載せています（ロボティクス・自動運転向けの研究・実装記事が多いため）。
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
 - **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
 - **DeNA** は [`engineering.dena.com`](https://engineering.dena.com/)（開発全般）と [`swet.dena.com`](https://swet.dena.com/)（テスト・CI/CD 特化）で媒体が分かれています。
-- **チューリング**・**LayerX**・**Helpfeel**・**Ubie** は上の **Zenn Publication** にも載せています（同一企業の別 URL）。
-- **STORES** も **Zenn Publication** に載せています（同一企業の別 URL）。
+- **チューリング**・**LayerX**・**Helpfeel**・**Ubie**・**Fixstars**・**STORES** は上の **Zenn Publication** にも載せています（同一企業の別 URL）。
 - **リクルート** はグループ内に複数の開発者向け媒体があります。データ・ML 寄りは **Recruit Data Blog**（上記 AI / Data）を参照。
