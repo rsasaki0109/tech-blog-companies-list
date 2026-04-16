@@ -2,7 +2,7 @@
 
 日本企業の公式テックブログのうち、**実装・設計・アーキテクチャ・インフラ・データ・セキュリティ・性能・検証などに踏み込んだ技術記事が継続的に載る**ものを優先して収集した一覧です（**直近・特に2026年の新着**も条件）。スタートアップ〜成長企業を厚めにしつつ、更新量の多い大手もバランス用に含めています。**産業ロボット・自動運転・モビリティソフトウェア**など、フィジカル寄りの領域も `Robotics / Autonomous Driving` にまとめています。
 
-海外のロボタクシー／自動運転スタック、**ROS／シミュレーション／ロボット開発ツール**向けリンクは **`International`** に分け、**2026年頃まで活発な公式発信が確認できるもの**と、**更新が薄いが文脈参照として残すもの**を区別しています（英語中心）。
+海外のロボタクシー／自動運転スタック、**自律飛行ドローン（PX4／ArduPilot 等）**、**ROS／シミュレーション／ロボット開発ツール**向けリンクは **`International`** に分け、**2026年頃まで活発な公式発信が確認できるもの**と、**更新が薄いが文脈参照として残すもの**を区別しています（英語中心）。
 
 掲載基準の目安（国内リスト）:
 
@@ -174,6 +174,15 @@
   - https://wayve.ai/thinking/
 - GM Engineering Blog（自動運転・ソフトウェア定義車両など）
   - https://engineering.gm.com/
+
+### International — Drones & Autopilot OSS（2026年頃まで更新確認）
+
+- Dronecode Foundation（PX4・MAVLink・QGroundControl・MAVSDK のホーム。**ニュース・リリース・イベント**が混在。英語中心）
+  - https://www.dronecode.org/
+- PX4 Autopilot（公式サイト。**リリースノート・開発ドキュメント**は [docs の Releases](https://docs.px4.io/main/en/releases/) 等。英語中心）
+  - https://px4.io/
+- ArduPilot（公式ポータル。**コミュニティブログ**は [Discourse の Blog カテゴリ](https://discuss.ardupilot.org/c/blog)。フォーラム・Wiki と混在。英語中心）
+  - https://ardupilot.org/
 
 ### International — 更新が薄いが参照用（歴史的文脈・ニュースアーカイブ）
 
