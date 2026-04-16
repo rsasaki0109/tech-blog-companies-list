@@ -25,8 +25,6 @@
   - https://www.rapyuta-robotics.com/ja/blog/
 - 株式会社デンソーアイティーラボラトリ
   - https://d-itlab.co.jp/blog/
-- 本田技研工業（Honda Tech Blog／SDV・コネクテッド領域）
-  - https://honda-techblog.hatenablog.com/
 - カワサキロボティクス（川崎重工・産業用ロボット）
   - https://kawasakirobotics.com/jp/blog/
 
@@ -179,6 +177,11 @@
 
 - GMOペパボ（Pepabo Tech Portal／**所信表明・採用・イベント寄りの記事が多く、技術記事だけを追う用途には向きにくい**）
   - https://tech.pepabo.com/
+
+### 参考（国内・2026年のエンジニアリング新着がほぼない／更新が事実上止まっている例）
+
+- 本田技研工業（Honda Tech Blog／**2026年に技術記事の新着がほぼなく、お知らせや記事削除の案内が目立つ**。SDV・コネクテッドの深掘りを追う用途には不向き）
+  - https://honda-techblog.hatenablog.com/
 
 ---
 
