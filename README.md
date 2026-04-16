@@ -147,6 +147,8 @@
   - https://zenn.dev/p/levtech
 - STORES
   - https://zenn.dev/p/stores（→ Web / Backend）
+- Fixstars（フィックスターズ・**2026年に技術ブログを Zenn Publication へ移行**（旧プロジェクト名「proc-cpuinfo」）。GPU／AI 最適化・検証寄り）
+  - https://zenn.dev/p/fixstars
 
 ## International — Autonomous Driving & Mobility（2026年頃まで更新確認）
 
@@ -156,6 +158,8 @@
   - https://www.mobileye.com/blog/
 - NVIDIA Developer Blog（自動運転・モビリティ系タグ）
   - https://developer.nvidia.com/blog/tag/self-driving-cars/
+- Autoware Foundation（オープンソース AD スタック「Autoware」の公式サイト。**ニュース・技術解説・イベント案内**が混在。英語中心）
+  - https://autoware.org/
 - Wayve（Thinking・**カルチャー記事混在**のため、一覧の Subject で *Engineering* / *Research* を優先）
   - https://wayve.ai/thinking/
 - GM Engineering Blog（自動運転・ソフトウェア定義車両など）
@@ -194,7 +198,7 @@
 - **Helpfeel** は上記 **Zenn Publication** 節にも Zenn の URL を載せています。
 - **ラクス** と **ラクスル** は別会社です。どちらもグループ内でテックブログを公開しています。
 - **ヌーラボ** TechBlog は開発・セキュリティ・インフラ寄りの記事がある一方、プロジェクトマネジメント等の記事も混在します。技術だけを追う場合はタイトルで振り分けてください。
-- **TIER IV** は旧ドメイン https://tech.tier4.jp/ から [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) への移行が案内されています。
+- **TIER IV** は旧ドメイン https://tech.tier4.jp/ から [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) への移行が案内されています。Autoware の商用ディストリビューション（Autoware Universe 等）と連動する記事は **TIER IV MEDIA** と **[Autoware Foundation](https://autoware.org/)** の両方に出ます。
 - **Preferred Networks（PFN）** は **`AI / Data` と `Robotics / Autonomous Driving` の両方**に URL を載せています（ロボティクス・自動運転向けの研究・実装記事が多いため）。
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
 - **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
@@ -202,3 +206,4 @@
 - **チューリング**・**LayerX**・**Helpfeel**・**Ubie** は上の **Zenn Publication** にも載せています（同一企業の別 URL）。
 - **STORES** も **Zenn Publication** に載せています（同一企業の別 URL）。
 - **リクルート** はグループ内に複数の開発者向け媒体があります。データ・ML 寄りは **Recruit Data Blog**（上記 AI / Data）を参照。
+- **MAP IV**（マップフォー）の公式サイト内 **BLOG**（`https://www.map4.jp/media/blog/`）は、2026年4月時点で **投稿ゼロ表示**だった（再編・カテゴリ未設定の可能性）。本編リストには未掲載。
