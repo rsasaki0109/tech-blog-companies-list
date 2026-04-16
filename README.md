@@ -27,6 +27,10 @@
   - https://d-itlab.co.jp/blog/
 - カワサキロボティクス（川崎重工・産業用ロボット）
   - https://kawasakirobotics.com/jp/blog/
+- Preferred Networks（PFN・**`AI / Data` にも掲載**。ロボティクス・自動運転・学習基盤などの技術記事が多い）
+  - https://tech.preferred.jp/ja/blog/
+- 株式会社アールティ（移動型ロボット・ROS 2／Nav2 等の実装寄り。マイクロマウス・人型など別カテゴリは [ブログ一覧](https://rt-net.jp/blog/) から）
+  - https://rt-net.jp/mobility
 
 ## Web / Backend
 
@@ -191,7 +195,7 @@
 - **ラクス** と **ラクスル** は別会社です。どちらもグループ内でテックブログを公開しています。
 - **ヌーラボ** TechBlog は開発・セキュリティ・インフラ寄りの記事がある一方、プロジェクトマネジメント等の記事も混在します。技術だけを追う場合はタイトルで振り分けてください。
 - **TIER IV** は旧ドメイン https://tech.tier4.jp/ から [Medium（TIER IV MEDIA）](https://medium.com/tier-iv-tech-blog) への移行が案内されています。
-- **Preferred Networks（PFN）** は `AI / Data` にも掲載していますが、ロボティクス・自動運転向け研究の記事も多いです。
+- **Preferred Networks（PFN）** は **`AI / Data` と `Robotics / Autonomous Driving` の両方**に URL を載せています（ロボティクス・自動運転向けの研究・実装記事が多いため）。
 - **ウーブン・バイ・トヨタ** のエンジニア向け記事は [Medium @WovenbyToyota](https://medium.com/@WovenbyToyota) にまとまっています（投稿はやや古め。最新は [Woven by Toyota テクノロジー](https://www.woven.toyota/jp/technology/) や Woven City ニュースを参照）。
 - **Waymo** の論文・データセットは [Waymo Research](https://waymo.com/research/) から辿れます（ブログ本体は上記 Waypoint）。
 - **DeNA** は [`engineering.dena.com`](https://engineering.dena.com/)（開発全般）と [`swet.dena.com`](https://swet.dena.com/)（テスト・CI/CD 特化）で媒体が分かれています。
